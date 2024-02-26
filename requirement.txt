@@ -1,0 +1,6 @@
+pyaudio
+speechrecognition
+customtkinter
+tk
+sounddevice
+soundfile
